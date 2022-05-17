@@ -1,6 +1,3 @@
-
-from email.mime import image
-from re import S
 from config.definitions import ROOT_DIR
 import tkinter as tk
 from PIL import ImageTk,Image
