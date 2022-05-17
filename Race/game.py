@@ -94,4 +94,4 @@ class gameClass:
         if self.speed > 0:
             self.speed -= 1
 
-obj = gameClass()
+gameClass()
